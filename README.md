@@ -3,7 +3,7 @@
 
 ![Logo de sip](https://raw.githubusercontent.com/pasosdeJesus/sip/master/spec/dummy/public/images/logo.jpg)
 
-Este es un motor para sistemas de información sobre Ruby on Rails 4.2.x y
+Este es un motor para sistemas de información sobre Ruby on Rails 4.2 y
 PostgreSQL (con base de dato preferiblemente cifradas como en adJ).
 
 Este motor incluye 
